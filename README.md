@@ -1,4 +1,4 @@
-# ✧ KADES| Kinetic Anomaly Detection Engine System 
+# ✧ KADES | Kinetic Anomaly Detection Engine System 
 
 **Where AI meets crypto chaos.**
 
